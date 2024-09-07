@@ -1,8 +1,8 @@
 [
     {
         "LeviLaminaVersion": "0.13.5",
-        "includeLSE": false,
-        "includeRuntime": false,
-        "useUserScripts": false
+        "includeLSE": true,
+        "includeRuntime": true,
+        "useUserScripts": true
     }
 ]
